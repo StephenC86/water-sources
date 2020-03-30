@@ -1,14 +1,17 @@
-[
-  {
-    "name" : "Silver River",
-    "discharge" : 810
-  },
-  {
-    "name" : "Rainbow River",
-    "discharge" : 931
-  },
-  {
-    "name" : "Ocklawaha",
-    "discharge" : 1240
-  }
-]
+{
+  "waterSources" :
+  [
+    {
+      "name" : "Silver River",
+      "discharge" : 810
+    },
+    {
+      "name" : "Rainbow River",
+      "discharge" : 931
+    },
+    {
+      "name" : "Ocklawaha",
+      "discharge" : 1240
+    }
+  ]
+}
